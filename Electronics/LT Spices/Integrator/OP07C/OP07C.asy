@@ -1,0 +1,22 @@
+Version 4
+SymbolType BLOCK
+LINE Normal -16 48 -16 -48
+LINE Normal 64 0 -16 48
+LINE Normal -16 -48 64 0
+WINDOW 3 32 49 Top 2
+SYMATTR Value OP07C
+PIN -16 -16 LEFT 8
+PINATTR PinName +
+PINATTR SpiceOrder 1
+PIN -16 16 LEFT 8
+PINATTR PinName -
+PINATTR SpiceOrder 2
+PIN 16 -32 LEFT 8
+PINATTR PinName V+
+PINATTR SpiceOrder 3
+PIN 16 32 LEFT 8
+PINATTR PinName V-
+PINATTR SpiceOrder 4
+PIN 64 0 LEFT 8
+PINATTR PinName Vout
+PINATTR SpiceOrder 5

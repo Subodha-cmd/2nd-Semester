@@ -1,0 +1,19 @@
+LTspice 24.1.5 for Windows
+Circuit: C:\Users\Subodha\Desktop\Desk\2nd Semester\Electronics\LT Spices\Integrator\integrator.net
+Start Time: Wed Apr  9 21:32:40 2025
+solver = Normal
+Maximum thread count: 12
+tnom = 27
+temp = 27
+method = trap
+C:\Users\Subodha\Desktop\Desk\2nd Semester\Electronics\LT Spices\Integrator\integrator.net(7): Limiting fall time to 0.0001.
+
+V3 vin 0 PULSE(0 1 0 1m 0 0 2m)
+^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+Direct Newton iteration for .op point succeeded.
+Total elapsed time: 0.076 seconds.
+
+Files loaded:
+C:\Users\Subodha\Desktop\Desk\2nd Semester\Electronics\LT Spices\Integrator\integrator.net
+C:\Users\Subodha\Desktop\Desk\2nd Semester\Electronics\LT Spices\Unity gain amplifier\LM 741\lm741.lib
+
